@@ -202,7 +202,3 @@ not True :: Bool
   - `:l myfunctions` で `myfunctions.hs` に定義した関数を読み込む。
   - スクリプトを書き換えたら、もう一度 `:l myfunctions` するか `:r` で再読み込みする。
 - 基本的な進め方は、`.hs` ファイルに関数を定義し、`ghci` に読み込んで試し、ファイルを直してまた読み込む、の繰り返し。
-
-## メモ
-
-- 原著は Haskell Platform でのインストールを案内しているが、現在は [GHCup](https://www.haskell.org/ghcup/) で GHC を入れるのが一般的。
