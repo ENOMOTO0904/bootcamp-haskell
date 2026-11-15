@@ -11,5 +11,9 @@
   - [1.4 レンジでチン！](section1/1-4-ranges.md)
   - [1.5 リスト内包表記](section1/1-5-list-comprehensions.md)
   - [1.6 タプル](section1/1-6-tuples.md)
+- 第 2 章 型を信じろ！
+  - [2.1 明示的な型宣言](section2/2-1-explicit-type-declarations.md)
+  - [2.2 一般的な Haskell の型](section2/2-2-common-types.md)
+  - [2.3 型変数](section2/2-3-type-variables.md)
 
 bootcampプレフィックスがついているのはなんとなく
