@@ -9,5 +9,7 @@
   - [1.2 赤ちゃんの最初の関数](section1/1-2-babys-first-functions.md)
   - [1.3 リスト入門](section1/1-3-intro-to-lists.md)
   - [1.4 レンジでチン！](section1/1-4-ranges.md)
+  - [1.5 リスト内包表記](section1/1-5-list-comprehensions.md)
+  - [1.6 タプル](section1/1-6-tuples.md)
 
 bootcampプレフィックスがついているのはなんとなく
