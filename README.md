@@ -15,5 +15,6 @@
   - [2.1 明示的な型宣言](section2/2-1-explicit-type-declarations.md)
   - [2.2 一般的な Haskell の型](section2/2-2-common-types.md)
   - [2.3 型変数](section2/2-3-type-variables.md)
+  - [2.4 型クラス 初級講座](section2/2-4-typeclasses-101.md)
 
 bootcampプレフィックスがついているのはなんとなく
