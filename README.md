@@ -16,5 +16,11 @@
   - [2.2 一般的な Haskell の型](section2/2-2-common-types.md)
   - [2.3 型変数](section2/2-3-type-variables.md)
   - [2.4 型クラス 初級講座](section2/2-4-typeclasses-101.md)
+- 第 3 章 関数の構文
+  - [3.1 パターンマッチ](section3/3-1-pattern-matching.md)
+  - [3.2 場合分けして、きっちりガード！](section3/3-2-guards-guards.md)
+  - [3.3 where?!](section3/3-3-where.md)
+  - [3.4 let It Be](section3/3-4-let-it-be.md)
+  - [3.5 case 式](section3/3-5-case-expressions.md)
 
 bootcampプレフィックスがついているのはなんとなく
